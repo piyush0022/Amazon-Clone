@@ -15,12 +15,13 @@ Welcome to the Amazon Clone project! This is a front-end web project that replic
 - [Contact](#contact)
 
 ## Demo
+![SS 1 Amazon](https://github.com/user-attachments/assets/f817b817-2334-483e-a292-dcc4889e9453)
 
-[Include a link to a live demo or a screenshot of the project]
+![SS2 amazon ](https://github.com/user-attachments/assets/41480c50-0727-44bd-9acd-9e78e7dd6898)
+
 
 ## Features
 
-- Responsive design that works on both desktop and mobile devices
 - Basic layout including header, navigation, main content, and footer
 - CSS styling mimicking the look and feel of Amazon's homepage
 
@@ -45,32 +46,12 @@ Welcome to the Amazon Clone project! This is a front-end web project that replic
 
 Open the `index.html` file in your web browser to view the Amazon Clone.
 
-## Contributing
 
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature/YourFeature
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature/YourFeature
-    ```
-5. Open a pull request.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me at your-email@example.com.
 
 ---
 
