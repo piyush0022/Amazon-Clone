@@ -10,9 +10,7 @@ Welcome to the Amazon Clone project! This is a front-end web project that replic
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Demo
 ![SS 1 Amazon](https://github.com/user-attachments/assets/f817b817-2334-483e-a292-dcc4889e9453)
